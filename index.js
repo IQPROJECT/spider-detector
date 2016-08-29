@@ -22,7 +22,8 @@ var spiders = [
     /webmeup-crawler/i,
     /Qwantify/i,
     /Yahoo! Slurp/i,
-    /pinterest/i
+    /pinterest/i,
+    /MegaIndex/i
 ]
 
 function isSpider(ua) {
