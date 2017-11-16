@@ -23,7 +23,8 @@ var spiders = [
     /Qwantify/i,
     /Yahoo! Slurp/i,
     /pinterest/i,
-    /MegaIndex/i
+    /MegaIndex/i,
+    /Insights/i
 ]
 
 function isSpider(ua) {
